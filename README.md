@@ -1,6 +1,6 @@
 # fostd-pages
 
-Опубликованная сборка игры [PRISM LATTICE](https://github.com/fosemberg/fostd).
+Опубликованная сборка игры [PRISM FORGE](https://github.com/fosemberg/fostd).
 
 **Играть:** https://fosemberg.github.io/fostd-pages/
 
